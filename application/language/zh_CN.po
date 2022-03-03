@@ -1162,7 +1162,7 @@ msgstr "尚未选择资源"
 #: application/view/omeka/site-admin/page/attachment-item-options.phtml:32
 #: application/view/omeka/site/media/show.phtml:8
 msgid "Media"
-msgstr "媒介"
+msgstr "媒体"
 
 #: application/view/common/data-type/uri.phtml:6
 #: application/view/common/property-form-batch-edit.phtml:44
